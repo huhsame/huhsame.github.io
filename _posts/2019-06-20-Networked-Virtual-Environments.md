@@ -1,7 +1,7 @@
 ---
 title: "The Promises and challenges of Networked Virtual Environments"
 date: 2019-06-21 02:30:13 +0900
-categories: swords, books, VR, net-VE
+categories: swords book VR net-VE
 ---
 
 # Networked virtual environment
