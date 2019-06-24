@@ -14,7 +14,7 @@ A key consideration is how to make sure that the participating hosts(여기서 �
  The dynamic shared state provides common context that makes the virtual environment into a collaborative or competitive experience.
  
  
- ## contents
+## contents
  - Consistency-throughput tradeoff
  - Maintain shared state
     1. shared repositories
