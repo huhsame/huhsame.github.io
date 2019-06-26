@@ -1,7 +1,7 @@
 ---
 title: "Managing Dynamic Shared State #1"
 date: 2019-06-25 00:33:31 +0900
-categories: swords book VR net-VE
+categories: book
 ---
 
 The goal of a networked virtual environment is to provide users with the illusion that they are all seeing the same things and interacting with each other within that virtual space.
