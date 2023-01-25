@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello, babies."
   location         : "Seoul, Korea"
-  email            : "huh@kist.re.kr"
+  # email            : "huh@kist.re.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
